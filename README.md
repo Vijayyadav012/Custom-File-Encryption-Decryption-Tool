@@ -1,2 +1,3 @@
 # Custom-File-Encryption-Decryption-Tool
 A standalone Python tool for secure file encryption and decryption using industry-standard cryptographic algorithms. Protects sensitive data with passphrase-based access, demonstrating practical cryptography for data confidentiality and integrity.
+This project is a standalone Python-based tool designed to provide robust file encryption and decryption capabilities. Its primary goal is to secure sensitive files using industry-standard cryptographic algorithms, ensuring data confidentiality and integrity. The tool empowers users to encrypt and decrypt files using a passphrase, demonstrating a practical application of modern cryptography for data protection.
